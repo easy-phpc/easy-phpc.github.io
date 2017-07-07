@@ -1,3 +1,7 @@
+---
+title: PHPC Compiler CMF - Content Managment Framework | Документация
+---
+
 # Документация
 
 Добро пожаловать в справочную систему PHPC!
