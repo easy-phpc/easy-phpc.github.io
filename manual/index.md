@@ -1,5 +1,5 @@
 ---
-title: PHPC Compiler CMF - Content Managment Framework | Документация
+title: PHPC Compiler CMF - Content Management Framework | Документация
 ---
 
 # Документация
