@@ -1,6 +1,6 @@
 # PHPC и безопасность
 
-Назад: [Прочее](https://easy-phpc.github.com/manual/miscells) • К началу: [Документация](https://easy-phpc.github.io/manual/) • Далее: [PHPC и кодировки MySQL]
+Назад: [Прочее](https://easy-phpc.github.io/manual/miscells) • К началу: [Документация](https://easy-phpc.github.io/manual/) • Далее: [PHPC и кодировки MySQL]
 
 Содержание
 1. Бэкдоры (Backdoors)
@@ -93,4 +93,4 @@ echo $comment;```
 ```require "global.php";```
 Файл global.php создает все необходимые переменные и классы, а также проверяет авторизацию. Если кто-то попытается запросить защищенный файл, не авторизовавшись, работа скрипта будет немедленно прекращена. После авторизации зашифрованный пароль администратора записывается во временный cookie под именем phpcpassword. Чтобы выйти из админпанели и удалить этот cookie с компьютера, достаточно закрыть браузер.
 
-Назад: [Прочее](https://easy-phpc.github.com/manual/miscells) • К началу: [Документация](https://easy-phpc.github.io/manual/) • Далее: [PHPC и кодировки MySQL]
+Назад: [Прочее](https://easy-phpc.github.io/manual/miscells) • К началу: [Документация](https://easy-phpc.github.io/manual/) • Далее: [PHPC и кодировки MySQL]
