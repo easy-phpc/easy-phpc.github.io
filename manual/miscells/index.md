@@ -10,4 +10,4 @@ PHPC и кодировки MySQL
 Установка сторонних скриптов
 Маленькие хитрости
 
-Назад: Стандартные константы • К началу: Документация • Далее: PHPC и безопасность
+Назад: [Стандартные константы](https://easy-phpc.github.io/manual/api/constants/) • К началу: [Документация](https://easy-phpc.github.io/manual/) • Далее: [PHPC и безопасность](https://easy-phpc.github.io/manual/miscells/security/)
